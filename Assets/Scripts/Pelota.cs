@@ -31,6 +31,11 @@ public class Pelota : MonoBehaviour
 		if (puntuacion < puntuacionMaxima) {
 			temporizador -= Time.deltaTime;
 			temporizadorInt = (int)temporizador;
+
+			Vector3 scale = transform.localScale;
+			float tam = (float)(1.75-temporizador*0.05);
+			scale.Set (tam, tam, tam);
+			transform.localScale = scale;
 		} 
 		else 
 		{
