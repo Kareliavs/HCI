@@ -1,0 +1,100 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   1.0.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bug\Downloads\HCI-master\HCI-master\Roll a ball v0.5\ROLLING_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.412203 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1764 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.789568 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.453354 ms (FindLiveObjects: 0.071394 ms CreateObjectMapping: 0.021864 ms MarkObjects: 0.293609 ms  DeleteObjects: 0.065593 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.792923 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.347601 ms (FindLiveObjects: 0.036143 ms CreateObjectMapping: 0.033019 ms MarkObjects: 0.269959 ms  DeleteObjects: 0.008031 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.742947 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.395792 ms (FindLiveObjects: 0.049083 ms CreateObjectMapping: 0.023203 ms MarkObjects: 0.313242 ms  DeleteObjects: 0.009816 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.930803 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.364557 ms (FindLiveObjects: 0.053099 ms CreateObjectMapping: 0.021418 ms MarkObjects: 0.280222 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.734469 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.418103 ms (FindLiveObjects: 0.070501 ms CreateObjectMapping: 0.024988 ms MarkObjects: 0.311904 ms  DeleteObjects: 0.010262 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.730899 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.372589 ms (FindLiveObjects: 0.043282 ms CreateObjectMapping: 0.033466 ms MarkObjects: 0.286469 ms  DeleteObjects: 0.008478 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.861640 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.333322 ms (FindLiveObjects: 0.034804 ms CreateObjectMapping: 0.023203 ms MarkObjects: 0.261035 ms  DeleteObjects: 0.013832 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.743393 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.400254 ms (FindLiveObjects: 0.061131 ms CreateObjectMapping: 0.022756 ms MarkObjects: 0.305210 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.319010 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 635.
+Total: 0.407840 ms (FindLiveObjects: 0.062916 ms CreateObjectMapping: 0.022310 ms MarkObjects: 0.311904 ms  DeleteObjects: 0.010262 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.833528 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 519.
+Total: 0.437736 ms (FindLiveObjects: 0.033019 ms CreateObjectMapping: 0.034804 ms MarkObjects: 0.263712 ms  DeleteObjects: 0.105752 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698772 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.427919 ms (FindLiveObjects: 0.025880 ms CreateObjectMapping: 0.021864 ms MarkObjects: 0.249433 ms  DeleteObjects: 0.129848 ms)
+
+El juego ha salido
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
