@@ -7,7 +7,7 @@ public class ControladorJuego : MonoBehaviour
 	public Text textoTiempo;
 
 	public int puntuacion;
-	public int tiempo;
+	public float tiempo;
 
 	public GameObject pelota;
 	private Animator animador;
@@ -29,10 +29,10 @@ public class ControladorJuego : MonoBehaviour
 		perder = pelota.GetComponent<Pelota> ().perder;
 
 		puntuacion = pelota.GetComponent<Pelota> ().puntuacion;
-		tiempo = pelota.GetComponent<Pelota> ().temporizadorInt;
+		tiempo = pelota.GetComponent<Pelota> ().tempo;
 
 		textoPuntuacion.text = "Puntuacion: " + puntuacion;
-		textoTiempo.text = "Tiempo: " + tiempo;
+		textoTiempo.text = "Tiempo: " + Mathf.Floor(tiempo);
 
 		animador.SetBool ("Ganar", ganar);
 		animador.SetBool ("Perder", perder);
