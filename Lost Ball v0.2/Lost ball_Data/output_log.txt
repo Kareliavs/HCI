@@ -1,0 +1,48 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   1.0.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\Lost Ball v0.2\Lost ball_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.102571 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1390 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.882486 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 882.
+Total: 0.526540 ms (FindLiveObjects: 0.078088 ms CreateObjectMapping: 0.031235 ms MarkObjects: 0.296736 ms  DeleteObjects: 0.120033 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.016044 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 882.
+Total: 0.355637 ms (FindLiveObjects: 0.053992 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.262377 ms  DeleteObjects: 0.008031 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.002211 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 882.
+Total: 0.415877 ms (FindLiveObjects: 0.063809 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.310569 ms  DeleteObjects: 0.009370 ms)
+
