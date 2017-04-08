@@ -82,6 +82,8 @@
     <Compile Include="Assets\Scripts\Menu_Principal.cs" />
     <Compile Include="Assets\Scripts\Pelota.cs" />
     <Compile Include="Assets\Scripts\Recolectable.cs" />
+    <Compile Include="Assets\Scripts\movements.cs" />
+    <Compile Include="Assets\Scripts\spin.cs" />
     <Compile Include="Assets\move.cs" />
     <Compile Include="Assets\rotate.cs" />
   </ItemGroup>
