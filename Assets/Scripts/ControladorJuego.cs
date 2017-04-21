@@ -44,7 +44,7 @@ public class ControladorJuego : MonoBehaviour
             star1.color = redd;
         }*/
          
-        textoTiempo.text = "Tiempo: " + Mathf.Floor(tiempo);
+        textoTiempo.text = ": " + Mathf.Floor(tiempo);
 
 		animador.SetBool ("Ganar", ganar);
 		animador.SetBool ("Perder", perder);
