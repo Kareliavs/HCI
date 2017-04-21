@@ -1,0 +1,131 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   1.0.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\bug\Downloads\HCI-master (2)\HCI-master\RUEDA RUEDA build\ruedarueda_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.619334 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1348 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+ 
+(Filename:  Line: 282)
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+ 
+(Filename:  Line: 223)
+
+UnloadTime: 7.615200 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1033.
+Total: 0.676024 ms (FindLiveObjects: 0.084781 ms CreateObjectMapping: 0.032127 ms MarkObjects: 0.400259 ms  DeleteObjects: 0.157962 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.498854 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.478794 ms (FindLiveObjects: 0.057562 ms CreateObjectMapping: 0.037482 ms MarkObjects: 0.366793 ms  DeleteObjects: 0.016510 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.065574 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.440865 ms (FindLiveObjects: 0.054885 ms CreateObjectMapping: 0.042837 ms MarkObjects: 0.334219 ms  DeleteObjects: 0.008478 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.995964 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.559114 ms (FindLiveObjects: 0.091475 ms CreateObjectMapping: 0.033912 ms MarkObjects: 0.421232 ms  DeleteObjects: 0.012047 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.108858 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.479687 ms (FindLiveObjects: 0.070949 ms CreateObjectMapping: 0.032127 ms MarkObjects: 0.366347 ms  DeleteObjects: 0.009816 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.966067 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.420339 ms (FindLiveObjects: 0.062470 ms CreateObjectMapping: 0.032127 ms MarkObjects: 0.316816 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.538122 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.525647 ms (FindLiveObjects: 0.115124 ms CreateObjectMapping: 0.033020 ms MarkObjects: 0.366793 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.327952 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.474778 ms (FindLiveObjects: 0.070056 ms CreateObjectMapping: 0.034358 ms MarkObjects: 0.360546 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.071821 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.411415 ms (FindLiveObjects: 0.050422 ms CreateObjectMapping: 0.032127 ms MarkObjects: 0.320832 ms  DeleteObjects: 0.008031 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.008904 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.543942 ms (FindLiveObjects: 0.058901 ms CreateObjectMapping: 0.031235 ms MarkObjects: 0.439527 ms  DeleteObjects: 0.013832 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.993287 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.448451 ms (FindLiveObjects: 0.069164 ms CreateObjectMapping: 0.032127 ms MarkObjects: 0.337788 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.987039 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.480579 ms (FindLiveObjects: 0.077196 ms CreateObjectMapping: 0.032127 ms MarkObjects: 0.360992 ms  DeleteObjects: 0.009816 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.054419 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.423017 ms (FindLiveObjects: 0.063363 ms CreateObjectMapping: 0.031681 ms MarkObjects: 0.319940 ms  DeleteObjects: 0.008031 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.076284 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1068.
+Total: 0.465408 ms (FindLiveObjects: 0.072733 ms CreateObjectMapping: 0.031681 ms MarkObjects: 0.351175 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.017829 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 0.484595 ms (FindLiveObjects: 0.026327 ms CreateObjectMapping: 0.024542 ms MarkObjects: 0.231588 ms  DeleteObjects: 0.201245 ms)
+
+El juego ha salido
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
